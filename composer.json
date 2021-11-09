@@ -1,0 +1,19 @@
+{
+    "name": "wooletthedevsout/core",
+    "description": "WLTDO (Woo Let The Devs Out) bundle library.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wooletthedevsout\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "carlos",
+            "email": "geral@meuppt.pt"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

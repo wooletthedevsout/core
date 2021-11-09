@@ -1,0 +1,18 @@
+{
+  "name": "wooletthedevsout",
+  "version": "1.0.0",
+  "description": "WooCommerce toolbox and developer-focused library and framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "woocommerce",
+    "wordpress",
+    "php",
+    "wc",
+    "ecommerce"
+  ],
+  "author": "Carlos Matos",
+  "license": "MIT"
+}
