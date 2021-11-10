@@ -5,7 +5,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Wooletthedevsout\\Core\\": "src/"
+            "Wooletthedevsout\\Core\\": "src/",
+            "Wooletthedevsout\\Config\\": "src/conf/"
         }
     },
     "authors": [
@@ -15,5 +16,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "symfony/yaml": "6.0.x-dev",
+        "symfony/console": "6.0.x-dev",
+        "nette/php-generator": "4.0.x-dev"
+    }
 }
